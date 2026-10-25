@@ -1,0 +1,10 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# 내가 채우는 노트북 — 저장소에 올리지 않는다 (폴더만 남긴다)
+me/**
+!me/lessons/
+!me/exercises/
+!me/lessons/.gitkeep
+!me/exercises/.gitkeep
