@@ -62,3 +62,4 @@ Claude Code는 새 터미널을 하나 더 열어 이 폴더(`pybook`)에서 시
 | 00 노트북 시작하기 | `lessons/00_start.ipynb` | 없음 |
 | 01 값과 변수 | `lessons/01_values.ipynb` | `exercises/01_values.ipynb` |
 | 02 조건과 반복 | `lessons/02_flow.ipynb` | `exercises/02_flow.ipynb` |
+| 03 자료구조 | `lessons/03_collections.ipynb` | `exercises/03_collections.ipynb` |
