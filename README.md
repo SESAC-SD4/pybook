@@ -65,3 +65,4 @@ Claude Code는 새 터미널을 하나 더 열어 이 폴더(`pybook`)에서 시
 | 02 조건과 반복 | `lessons/02_flow.ipynb` | `exercises/02_flow.ipynb` |
 | 03 자료구조 | `lessons/03_collections.ipynb` | `exercises/03_collections.ipynb` |
 | 04 함수 | `lessons/04_functions.ipynb` | `exercises/04_functions.ipynb` |
+| 05 모듈과 패키지 | `lessons/05_modules.ipynb` | `exercises/05_modules.ipynb` |
