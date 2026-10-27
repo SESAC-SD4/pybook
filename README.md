@@ -9,7 +9,7 @@
 | `me/` | 내가 채우는 노트북. 이 폴더 안의 노트북은 git에 올라가지 않습니다 |
 | `answers/` | 수업 뒤에 올라오는 강사 노트북과 연습 정답 |
 
-Claude Code는 수업 노트북에서 씁니다. 연습 노트북은 혼자 풉니다.
+Claude Code는 수업 노트북에서 씁니다. 연습 노트북은 혼자 풉니다. 연습 노트북 끝의 **만들어 보기**는 Claude Code와 함께 합니다.
 
 `lessons/` · `exercises/`의 원본은 **고치지 않습니다.** 고치면 다음 `git pull`에서 충돌합니다.
 
@@ -66,3 +66,4 @@ Claude Code는 새 터미널을 하나 더 열어 이 폴더(`pybook`)에서 시
 | 03 자료구조 | `lessons/03_collections.ipynb` | `exercises/03_collections.ipynb` |
 | 04 함수 | `lessons/04_functions.ipynb` | `exercises/04_functions.ipynb` |
 | 05 모듈과 패키지 | `lessons/05_modules.ipynb` | `exercises/05_modules.ipynb` |
+| 06 클래스 | `lessons/06_classes.ipynb` | `exercises/06_classes.ipynb` |
