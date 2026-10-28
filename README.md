@@ -67,3 +67,6 @@ Claude Code는 새 터미널을 하나 더 열어 이 폴더(`pybook`)에서 시
 | 04 함수 | `lessons/04_functions.ipynb` | `exercises/04_functions.ipynb` |
 | 05 모듈과 패키지 | `lessons/05_modules.ipynb` | `exercises/05_modules.ipynb` |
 | 06 클래스 | `lessons/06_classes.ipynb` | `exercises/06_classes.ipynb` |
+| 07 예외 처리 | `lessons/07_errors.ipynb` | `exercises/07_errors.ipynb` |
+| 08 파일 다루기 | `lessons/08_files.ipynb` | `exercises/08_files.ipynb` |
+| 09 제너레이터와 데코레이터 | `lessons/09_generators.ipynb` | `exercises/09_generators.ipynb` |
