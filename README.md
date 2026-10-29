@@ -70,3 +70,4 @@ Claude Code는 새 터미널을 하나 더 열어 이 폴더(`pybook`)에서 시
 | 07 예외 처리 | `lessons/07_errors.ipynb` | `exercises/07_errors.ipynb` |
 | 08 파일 다루기 | `lessons/08_files.ipynb` | `exercises/08_files.ipynb` |
 | 09 제너레이터와 데코레이터 | `lessons/09_generators.ipynb` | `exercises/09_generators.ipynb` |
+| 10 requests로 데이터 가져오기 | `lessons/10_requests.ipynb` | 없음 (수업 노트북 5 · 6절을 혼자 풉니다) |
